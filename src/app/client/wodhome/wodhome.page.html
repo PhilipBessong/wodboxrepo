@@ -1,0 +1,49 @@
+<ion-content [fullscreen]="true">
+  <ion-toolbar>
+    <ion-menu-button
+      style="background-color: #b27600; border-radius: 10%; color: aliceblue"
+      slot="start"
+    >
+    </ion-menu-button>
+    <ion-icon
+      name="notifications-outline"
+      slot="end"
+      style="padding-right: 2%; width: 30px; height: 30px; color: #b27600"
+    ></ion-icon>
+  </ion-toolbar>
+  <ion-grid class="daBack">
+    <ion-row>
+      <div class="logocon">
+        <ion-img src="assets/imgs/WODBOX ICON@2x.png" id="logo"></ion-img>
+      </div>
+    </ion-row>
+    <ion-row style="text-align: center">
+      <ion-col>
+        <h1>Select <span style="color: #b27600">Your</span> Challenge</h1>
+      </ion-col>
+    </ion-row>
+
+    <ion-row  justify-content-center align-items-center>
+      <ion-col size-md="6" size-lg="4">
+        <ion-card class="wodbod">
+          <ion-card-content> 
+            <a href="/wodcat" style="color: aliceblue; text-decoration: none">
+              <div class="card">
+                <div class="cardimg">
+                  <pre></pre>
+                  <ion-img
+                    src="assets/icon/CARDIO ICON@2x.png"
+                    class="wodicon"
+                  ></ion-img>
+                </div>
+                <h2 class="cardttl">WOD</h2>
+                <pre></pre>
+              </div>
+            </a>
+          </ion-card-content>
+          
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
