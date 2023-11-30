@@ -119,6 +119,12 @@ private moves : Exercise[]=[
   new Exercise(7,'High Plank Dumbbell Drag Across','/assets/videos/15 High Plank DB Drag Across.mp4','/assets/videos/High Plank Drag Across.mp4'),
   new Exercise(8,'KB Single Leg Romanian Deadlift','/assets/videos/16 KB Single Leg Romanian Deadlift.mp4','/assets/videos/KB Single Leg Romanian Deadlift.mp4'),
   new Exercise(9,'Russian Twists with Dumbell','/assets/videos/17 Russian twists with DB.mp4','/assets/videos/Russian twists with DB.mp4'),
+  new Exercise(10,'Upright KB Row','/assets/videos/18 Upright KB Row.mp4','/assets/videos/Upright KB Row.mp4'),
+  new Exercise(11,'Burpee','/assets/videos/19 Burpee.mp4','/assets/videos/Burpee.mp4'),
+  new Exercise(12,'Mountain Climbers','/assets/videos/20 Mountain climbers.mp4','/assets/videos/Mountain Climbers.mp4'),
+  new Exercise(13,'Glute Bridges','/assets/videos/21 Glute bridges.mp4','/assets/videos/Glute bridges.mp4'),
+  new Exercise(14,'Pike Push-ups (Feet on Box)','/assets/videos/22 Pike Push-ups','/assets/videos/Pike Push-ups.mp4'),
+  new Exercise(15,'Burpee WodBox Jump','/assets/videos/23 Burpee WodBox Jump','/assets/videos/Burpee WodBox Jump.mp4'),
 
 ];
 getAllMoves(): Exercise[]{

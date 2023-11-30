@@ -1011,6 +1011,7 @@
            
             <!-- Display the 5-second timer -->
             <ion-label 
+            *ngIf="cdr2m3Show"
             style="
             text-align: center;
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -1554,6 +1555,7 @@
          
           <!-- Display the 5-second timer -->
           <ion-label 
+          *ngIf="cdr3m3Show"
           style="
           text-align: center;
           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -2097,6 +2099,7 @@
          
           <!-- Display the 5-second timer -->
           <ion-label 
+          *ngIf="cdr4m3Show"
           style="
           text-align: center;
           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -2224,7 +2227,7 @@
       </video>
       </ion-row>
       <br>
-      <ion-row class="ion-justify-content-center"
+       <!-- <ion-row class="ion-justify-content-center"
         ><button
         (click)="openModal()"
            style="
@@ -2240,7 +2243,7 @@
            color="#00b250"
            >SHARE</button
          >
-      </ion-row>
+      </ion-row>-->
       <pre></pre>
       <ion-row class="ion-justify-content-center"
       ><button

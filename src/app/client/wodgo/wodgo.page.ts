@@ -431,6 +431,7 @@ export class WodgoPage implements OnInit {
   r2strt5SecTimer(workout: Workout) {
     this.r2cd5Sec = 5;
     this.r2srtbtnShow = false;
+    this.r2cd5SecShow = true;
 
     const timerInterval = setInterval(() => {
       if (this.r2cd5Sec !== undefined && this.r2cd5Sec > 0) {
@@ -495,30 +496,27 @@ export class WodgoPage implements OnInit {
           // Store remaining time
           this.cdr2Rest--;
         } else {
-          clearInterval(this.cdr2Rest);
+          clearInterval(this.cdir2Rest); // Use cdir2Rest, not cdr2Rest
           this.clearcdr2rest();
           if (workout.r2m2 !== '') {
-
-
             this.r2RestShow = false;
             this.r2m2Show = true;
           } else {
             if (this.r2sets !== workout.r2sets) {
               this.r2sets++;
               this.r2RestShow = false;
-              this.cdr2m1Show = true;
+              this.r2m1Show = true;
               this.r2srtbtnShow = true;
               this.buttonDisabled = false;
               this.srtbtn2Show = true;
               this.buttonDisabled = false;
-            
             } else {
               if (workout.r3m1 !== '') {
                 this.r3m1Show = true;
-                this.r1RestShow = false;
-              }else {
+                this.r2RestShow = false;
+              } else {
                 this.donescrnShow = true;
-                this.r1RestShow = false;
+                this.r2RestShow = false;
               }
             }
           } 
@@ -526,13 +524,14 @@ export class WodgoPage implements OnInit {
       }, 1000);
     }
   }
-
+  
   clearcdr2rest() {
     if (this.cdir2Rest) {
-      clearInterval(this.cdir2Rest);
+      clearInterval(this.cdir2Rest); // Use cdir2Rest, not cdr2Rest
     }
     this.cdr2Rest = undefined;
   }
+  
 
   r2m2cd5Sec: number | undefined = undefined;
   r2m2cd5SecShow = true;
@@ -540,7 +539,7 @@ export class WodgoPage implements OnInit {
   r2m2strt5SecTimer(workout: Workout) {
     this.r2m2cd5Sec = 5;
     this.r2m2srtbtnShow = false;
-
+    this.r2m2cd5SecShow = true;
     const timerInterval = setInterval(() => {
       if (this.r2m2cd5Sec !== undefined && this.r2m2cd5Sec > 0) {
         this.r2m2cd5Sec--;
@@ -608,15 +607,28 @@ export class WodgoPage implements OnInit {
           if (workout.r2m3 !== '') {
             this.r2m3Show = true;
             this.r2m2RestShow = false;
-          } else if (workout.r3m1 !== '') {
-            this.r3m1Show = true;
-            this.r2m2RestShow = false;
-          }
-          else {
-            this.donescrnShow = true;
-            this.r2m2RestShow = false;
-            this.buttonDisabled = false;
-          }
+          } else {
+            if (this.r2sets !== workout.r2sets) {
+              this.r2sets++;
+              this.r2m2RestShow = false;
+              this.r2m1Show = true;
+   
+              this.cdr2m1Show = true;
+              this.r2srtbtnShow = true;
+              this.r2m2srtbtnShow = true;
+              this.buttonDisabled = false;
+              this.cdr2m2Show = true;
+            
+            } else {
+              if (workout.r3m1 !== '') {
+                this.r3m1Show = true;
+                this.r2m2RestShow = false;
+              }else {
+                this.donescrnShow = true;
+                this.r2m2RestShow = false;
+              }
+            }
+          } 
 
         }
       }, 1000);
@@ -632,10 +644,11 @@ export class WodgoPage implements OnInit {
   r2m3cd5Sec3Show = true;
   r2m3srtbtn3Show = true;
   r2m3cd5Sec3: number | undefined = undefined;
+  cdr2m3Show = false;
   r2m3strt5Sec3Timer(workout: Workout) {
     this.r2m3cd5Sec3 = 5;
     this.r2m3srtbtn3Show = false;
-
+    this.r2m3cd5Sec3Show = true;
     const timerInterval = setInterval(() => {
       if (this.r2m3cd5Sec3 !== undefined && this.r2m3cd5Sec3 > 0) {
         this.r2m3cd5Sec3--;
@@ -643,6 +656,7 @@ export class WodgoPage implements OnInit {
         clearInterval(timerInterval);
         this.strtr2m3Timer(workout);
         this.r2m3cd5Sec3Show = false;
+        this.cdr2m3Show = true;
       }
     }, 1000); // Update the 5-second countdown every second
   }
@@ -696,14 +710,28 @@ export class WodgoPage implements OnInit {
         } else {
           clearInterval(this.cdir2m3Rest);
           this.clearcdr2m3rest();
-          if (workout.r3m1 !== '') {
-            this.r3m1Show = true;
+          if (this.r2sets !== workout.r2sets) {
+            this.r2sets++;
+            this.r2m1Show=true;
             this.r2m3RestShow = false;
+            this.cdr2m1Show = true;
+            this.cdr2m2Show = true;
+            this.r2m3srtbtn3Show = true;
+            this.r2m2srtbtnShow = true;
+            this.r2srtbtnShow = true;
+            this.buttonDisabled = false;
+            this.cdr2m3Show = true;
+          
+          } else {
+            if (workout.r3m1 !== '') {
+              this.r3m1Show = true;
+              this.r2m3RestShow = false;
+            }else {
+              this.donescrnShow = true;
+              this.r2m3RestShow = false;
+            }
           }
-          else {
-            this.donescrnShow = true;
-            this.r2m3RestShow = false;
-          }
+
         }
       }, 1000);
     }
@@ -722,7 +750,7 @@ export class WodgoPage implements OnInit {
   r3strt5SecTimer(workout: Workout) {
     this.r3cd5Sec = 5;
     this.r3srtbtnShow = false;
-
+    this.r3cd5SecShow = true;
     const timerInterval = setInterval(() => {
       if (this.r3cd5Sec !== undefined && this.r3cd5Sec > 0) {
         this.r3cd5Sec--;
@@ -778,6 +806,7 @@ export class WodgoPage implements OnInit {
   r4m1Show = false;
   cdr3Rest: number | undefined = undefined;
   cdir3Rest: any;
+  r3sets: number = 1;
   startr3Rest(workout: Workout) {
     if (workout.r3rest) {
       this.cdr3Rest = workout.r3rest;
@@ -792,14 +821,25 @@ export class WodgoPage implements OnInit {
 
             this.r3RestShow = false;
             this.r3m2Show = true;
-          } else if (workout.r4m1 !== '') {
-            this.r3RestShow = false;
-            this.r4m1Show = true;
-          } else {
-            this.donescrnShow = true;
-            this.r3RestShow = false;
-            this.buttonDisabled = false;
-          }
+          }else {
+            if (this.r3sets !== workout.r3sets) {
+              this.r3sets++;
+              this.r3RestShow = false;
+              this.r3m1Show = true;
+              this.r3srtbtnShow = true;
+              this.buttonDisabled = false;
+              this.r3m2srtbtnShow = true;
+              this.buttonDisabled = false;
+            } else {
+              if (workout.r4m1 !== '') {
+                this.r4m1Show = true;
+                this.r3RestShow = false;
+              } else {
+                this.donescrnShow = true;
+                this.r3RestShow = false;
+              }
+            }
+          } 
         }
       }, 1000);
     }
@@ -818,7 +858,7 @@ export class WodgoPage implements OnInit {
   r3m2strt5SecTimer(workout: Workout) {
     this.r3m2cd5Sec = 5;
     this.r3m2srtbtnShow = false;
-
+    this.r3m2cd5SecShow = true;
     const timerInterval = setInterval(() => {
       if (this.r3m2cd5Sec !== undefined
         && this.r3m2cd5Sec > 0) {
@@ -862,8 +902,8 @@ export class WodgoPage implements OnInit {
   }
 
   clearr3m2Cd() {
-    if (this.cdr2m2Intval) {
-      clearInterval(this.cdr2m2Intval);
+    if (this.cdr3m2Intval) {
+      clearInterval(this.cdr3m2Intval);
     }
     this.cdr3m2Timer = undefined;
     this.isPr3m2Timer = false;
@@ -886,16 +926,28 @@ export class WodgoPage implements OnInit {
           if (workout.r3m3 !== '') {
             this.r3m3Show = true;
             this.r3m2RestShow = false;
-          } else if (workout.r4m1 !== '') {
-            this.r4m1Show = true;
-            this.r3m2RestShow = false;
-          }
-          else {
-            this.donescrnShow = true;
-            this.r3m2RestShow = false;
-            this.buttonDisabled = false;
-          }
-
+          }  else {
+            if (this.r3sets !== workout.r3sets) {
+              this.r3sets++;
+              this.r3m2RestShow = false;
+              this.r3m1Show = true;
+   
+              this.cdr3m1Show = true;
+              this.r3srtbtnShow = true;
+              this.r3m2srtbtnShow = true;
+              this.buttonDisabled = false;
+              this.cdr3m2Show = true;
+            
+            } else {
+              if (workout.r4m1 !== '') {
+                this.r4m1Show = true;
+                this.r3m2RestShow = false;
+              }else {
+                this.donescrnShow = true;
+                this.r3m2RestShow = false;
+              }
+            }
+          } 
         }
       }, 1000);
     }
@@ -910,11 +962,12 @@ export class WodgoPage implements OnInit {
 
   r3m3cd5Sec3Show = true;
   r3m3srtbtn3Show = true;
+  cdr3m3Show = false;
   r3m3cd5Sec3: number | undefined = undefined;
   r3m3strt5Sec3Timer(workout: Workout) {
     this.r3m3cd5Sec3 = 5;
     this.r3m3srtbtn3Show = false;
-
+    this.r3m3cd5Sec3Show = true;
     const timerInterval = setInterval(() => {
       if (this.r3m3cd5Sec3 !== undefined && this.r3m3cd5Sec3 > 0) {
         this.r3m3cd5Sec3--;
@@ -922,6 +975,7 @@ export class WodgoPage implements OnInit {
         clearInterval(timerInterval);
         this.strtr3m3Timer(workout);
         this.r3m3cd5Sec3Show = false;
+        this.cdr3m3Show =true;
       }
     }, 1000); // Update the 5-second countdown every second
   }
@@ -975,13 +1029,26 @@ export class WodgoPage implements OnInit {
         } else {
           clearInterval(this.cdir3m3Rest);
           this.clearcdr3m3rest();
-          if (workout.r4m1 !== '') {
-            this.r4m1Show = true;
+          if (this.r3sets !== workout.r3sets) {
+            this.r3sets++;
+            this.r3m1Show=true;
             this.r3m3RestShow = false;
-          }
-          else {
-            this.donescrnShow = true;
-            this.r3m3RestShow = false;
+            this.cdr3m1Show = true;
+            this.cdr3m2Show = true;
+            this.r3m3srtbtn3Show = true;
+            this.r3m2srtbtnShow = true;
+            this.r3srtbtnShow = true;
+            this.buttonDisabled = false;
+            this.cdr3m3Show = true;
+          
+          } else {
+            if (workout.r4m1 !== '') {
+              this.r4m1Show = true;
+              this.r3m3RestShow = false;
+            }else {
+              this.donescrnShow = true;
+              this.r3m3RestShow = false;
+            }
           }
         }
       }, 1000);
@@ -998,10 +1065,11 @@ export class WodgoPage implements OnInit {
   r4cd5Sec: number | undefined = undefined;
   r4cd5SecShow = true;
   r4srtbtnShow = true;
+  
   r4strt5SecTimer(workout: Workout) {
     this.r4cd5Sec = 5;
     this.r4srtbtnShow = false;
-
+    this.r4cd5SecShow = true;
     const timerInterval = setInterval(() => {
       if (this.r4cd5Sec !== undefined && this.r4cd5Sec > 0) {
         this.r4cd5Sec--;
@@ -1057,6 +1125,7 @@ export class WodgoPage implements OnInit {
   r4m2Show = false;
   cdr4Rest: number | undefined = undefined;
   cdir4Rest: any;
+  r4sets: number = 1;
   startr4Rest(workout: Workout) {
     if (workout.r4rest) {
       this.cdr4Rest = workout.r4rest;
@@ -1073,10 +1142,19 @@ export class WodgoPage implements OnInit {
             this.r4m2Show = true;
           }
           else {
-            this.donescrnShow = true;
-            this.r4RestShow = false;
-            this.buttonDisabled = false;
-          }
+            if (this.r4sets !== workout.r4sets) {
+              this.r4sets++;
+              this.r4RestShow = false;
+              this.r4m1Show = true;
+              this.r4srtbtnShow = true;
+              this.buttonDisabled = false;
+              this.r4m2srtbtnShow = true;
+              this.buttonDisabled = false;
+            } else {
+              this.donescrnShow = true;
+              this.r4RestShow = false;
+            }
+          } 
         }
       }, 1000);
     }
@@ -1094,7 +1172,7 @@ export class WodgoPage implements OnInit {
   r4m2strt5SecTimer(workout: Workout) {
     this.r4m2cd5Sec = 5;
     this.r4m2srtbtnShow = false;
-
+    this.r4m2cd5SecShow = true;
     const timerInterval = setInterval(() => {
       if (this.r4m2cd5Sec !== undefined
         && this.r4m2cd5Sec > 0) {
@@ -1164,10 +1242,22 @@ export class WodgoPage implements OnInit {
             this.r4m2RestShow = false;
           }
           else {
-            this.donescrnShow = true;
-            this.r4m2RestShow = false;
-            this.buttonDisabled = false;
-          }
+            if (this.r4sets !== workout.r4sets) {
+              this.r4sets++;
+              this.r4m2RestShow = false;
+              this.r4m1Show = true;
+   
+              this.cdr4m1Show = true;
+              this.r4srtbtnShow = true;
+              this.r4m2srtbtnShow = true;
+              this.buttonDisabled = false;
+              this.cdr4m2Show = true;
+            
+            } else {
+              this.donescrnShow = true;
+              this.r4m2RestShow = false;
+            }
+          } 
 
         }
       }, 1000);
@@ -1184,9 +1274,11 @@ export class WodgoPage implements OnInit {
   r4m3cd5Sec3Show = true;
   r4m3srtbtn3Show = true;
   r4m3cd5Sec3: number | undefined = undefined;
+  cdr4m3Show = false;
   r4m3strt5Sec3Timer(workout: Workout) {
     this.r4m3cd5Sec3 = 5;
     this.r4m3srtbtn3Show = false;
+    this.r4m3cd5Sec3Show = true;
 
     const timerInterval = setInterval(() => {
       if (this.r4m3cd5Sec3 !== undefined && this.r4m3cd5Sec3 > 0) {
@@ -1195,6 +1287,7 @@ export class WodgoPage implements OnInit {
         clearInterval(timerInterval);
         this.strtr4m3Timer(workout);
         this.r4m3cd5Sec3Show = false;
+        this.cdr4m3Show =true;
       }
     }, 1000); // Update the 5-second countdown every second
   }
@@ -1248,12 +1341,22 @@ export class WodgoPage implements OnInit {
         } else {
           clearInterval(this.cdir4m3Rest);
           this.clearcdr4m3rest();
-          // if (workout.r4m1 !== '') 
-          // {  this.r4m1Show = true;
-          //  this.r4m3RestShow = false;}
-          //  else{
-          this.donescrnShow = true;
-          this.r4m3RestShow = false;//}
+          if (this.r4sets !== workout.r4sets) {
+            this.r4sets++;
+            this.r4m1Show=true;
+            this.r4m3RestShow = false;
+            this.cdr4m1Show = true;
+            this.cdr4m2Show = true;
+            this.r4m3srtbtn3Show = true;
+            this.r4m2srtbtnShow = true;
+            this.r4srtbtnShow = true;
+            this.buttonDisabled = false;
+            this.cdr4m3Show = true;
+          
+          } else {
+            this.donescrnShow = true;
+              this.r4m3RestShow = false;
+          }
         }
       }, 1000);
     }
