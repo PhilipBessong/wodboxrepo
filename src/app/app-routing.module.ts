@@ -67,6 +67,10 @@ const routes: Routes = [
     path: 'add-user',
     loadChildren: () => import('./admin/add-user/add-user.module').then( m => m.AddUserPageModule)
   },
+  {
+    path: 'reset-password',
+    loadChildren: () => import('./logster/reset-password/reset-password.module').then( m => m.ResetPasswordPageModule)
+  },
 
   
 ];

@@ -125,7 +125,11 @@ private moves : Exercise[]=[
   new Exercise(13,'Glute Bridges','/assets/videos/21 Glute bridges.mp4','/assets/videos/Glute bridges.mp4'),
   new Exercise(14,'Pike Push-ups (Feet on Box)','/assets/videos/22 Pike Push-ups','/assets/videos/Pike Push-ups.mp4'),
   new Exercise(15,'Burpee WodBox Jump','/assets/videos/23 Burpee WodBox Jump','/assets/videos/Burpee WodBox Jump.mp4'),
-
+  new Exercise(16,'Bulgarian Split Squats','/assets/videos/24 Bulgarian Split squats','/assets/videos/Bulgarian Split Squats.mp4'),
+  new Exercise(17,'Single Arm Rows on Box','/assets/videos/11 Single arm Rows on Box','/assets/videos/Single Arm Rows on Box.mp4'),
+  new Exercise(18,'Thrusters Single Arm DB','/assets/videos/42 DB Thrusters Single Arm','/assets/videos/DB Thrusters Single Arm.mp4'),
+  new Exercise(19,'Clean and Jerk with Dumbbells','/assets/videos/26 Clean and Jerk Single Arm','/assets/videos/Clean and Jerk Single Arm.mp4'),
+  new Exercise(20,'Weighted Sit-ups (Single Hand DB)','/assets/videos/27 Weighted Sit-ups','/assets/videos/Weighted Sit-ups.mp4'),
 ];
 getAllMoves(): Exercise[]{
   return this.moves;
