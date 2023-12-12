@@ -44,6 +44,14 @@ export class DataserviceService {
     return this.http.post<User>(url, user);
   }
  
+  resetPassword(email: string): Observable<any> {
+    return this.http.post(`${this.apiURL}/Users/reset-password`, { email });
+  }
+
+  completeResetPassword(email: string, resetToken: string, newPassword: string): Observable<any> {
+    return this.http.post(`${this.apiURL}/Users/complete-reset-password`, { email, resetToken, newPassword });
+  }
+
   private userTypes: UserType[]=[
     new UserType(
       1,'Admin'

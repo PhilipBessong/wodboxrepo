@@ -1,27 +1,30 @@
-import { Component, OnInit } from '@angular/core';
-import { HttpClient, HttpErrorResponse  } from '@angular/common/http';
+import { Component } from '@angular/core';
+import { Router } from '@angular/router';
+import { HttpClient, HttpErrorResponse } from '@angular/common/http';
+import { DataserviceService } from 'src/app/dataservice.service';
 @Component({
   selector: 'app-reset-password',
   templateUrl: './reset-password.page.html',
   styleUrls: ['./reset-password.page.scss'],
 })
-export class ResetPasswordPage implements OnInit {
-
+export class ResetPasswordPage {
   email: string = '';
 
-  constructor(private http: HttpClient) {}
+  constructor(
+    private http: HttpClient,
+    private dataService: DataserviceService,
+    private router: Router
+  ) {}
 
   resetPassword() {
-    const resetRequest = { email: this.email };
-    this.http.post('http://localhost:7013/api/Users/reset-password', resetRequest)
-      .subscribe(response => {
-        console.log('Password reset token sent successfully', response);
-      }, (error: HttpErrorResponse) => {
-        console.error('Error sending reset token:', error);
-      });
+    this.dataService.resetPassword(this.email).subscribe(
+      () => {
+        this.router.navigate(['/complete-reset', { email: this.email }]);
+      },
+      (error) => {
+        console.error(error);
+        // Handle error, e.g., show an alert
+      }
+    );
   }
-
-  ngOnInit() {
-  }
-
 }

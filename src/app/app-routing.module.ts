@@ -71,6 +71,10 @@ const routes: Routes = [
     path: 'reset-password',
     loadChildren: () => import('./logster/reset-password/reset-password.module').then( m => m.ResetPasswordPageModule)
   },
+  {
+    path: 'complete-reset',
+    loadChildren: () => import('./logster/complete-reset/complete-reset.module').then( m => m.CompleteResetPageModule)
+  },
 
   
 ];

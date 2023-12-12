@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Complete Reset Password
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <ion-item>
+    <ion-label position="floating">New Password</ion-label>
+    <ion-input [(ngModel)]="newPassword" type="password"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label position="floating">Reset Token</ion-label>
+    <ion-input [(ngModel)]="resetToken" type="text"></ion-input>
+  </ion-item>
+
+  <ion-button expand="full" (click)="completeResetPassword()">Complete Reset</ion-button>
+</ion-content>
