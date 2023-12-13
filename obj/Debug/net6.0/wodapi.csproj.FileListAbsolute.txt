@@ -1,0 +1,911 @@
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\appsettings.json
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\wodapi.exe
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\wodapi.deps.json
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\wodapi.runtimeconfig.json
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\wodapi.pdb
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\wodapi.csproj.AssemblyReference.cache
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\wodapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\wodapi.AssemblyInfoInputs.cache
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\wodapi.AssemblyInfo.cs
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\wodapi.csproj.CoreCompileInputs.cache
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\wodapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\wodapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.wodapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.build.wodapi.props
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.wodapi.props
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.wodapi.props
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\scopedcss\bundle\wodapi.styles.css
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\wodapi.csproj.CopyComplete
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\refint\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\wodapi.pdb
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\wodapi.genruntimeconfig.cache
+C:\Users\Philip Bessong\Desktop\finale\wodapi\obj\Debug\net6.0\ref\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\appsettings.json
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\wodapi.exe
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\wodapi.deps.json
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\wodapi.runtimeconfig.json
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\wodapi.pdb
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.csproj.AssemblyReference.cache
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.AssemblyInfoInputs.cache
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.AssemblyInfo.cs
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.csproj.CoreCompileInputs.cache
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.wodapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.build.wodapi.props
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.wodapi.props
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.wodapi.props
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\scopedcss\bundle\wodapi.styles.css
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.csproj.CopyComplete
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\refint\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.pdb
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.genruntimeconfig.cache
+C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\ref\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\appsettings.json
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Box Jump Over.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Bulgarian Split Squats.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Burpee WodBox Jump.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Burpee.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Clean and Jerk Single Arm.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Front Rack Squat.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Hang clean & Jerk.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Overhead Reverse Lunges.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Push-up to Row.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Snatches.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Thrusters Single Arm.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Triceps Overhead Extension.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Elevated WodBox Push-ups.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Glute bridges.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Goblet Squat.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\High Plank Drag Across.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Jumping Jacks.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\KB Bicep Curl.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\KB Single Leg Romanian Deadlift.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\KB Sumo Deadlift High Pull.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\KB Swings.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Mountain Climbers.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Pike Push-ups.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Plank.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Push-up Kick Through.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Push-ups.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Russian twists with DB.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Shoulder Taps.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Single Arm DB Push-Press.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Single Arm Rows on Box.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Sit-ups.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Squat Jumps.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Sumo Deadlift.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Upright KB Row.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Weighted Sit-ups.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\WodBox Dips.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\WodBox Leg Tucks.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\WodBox Toe Taps.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\1 Jumping Jacks.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\11 Single arm Rows on Box.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\12 DB Hang Clean & Jerk.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\13 WodBox Toe Taps.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\14 KB Bicep Curl.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\15 High Plank DB Drag Across.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\16 KB Single Leg Romanian Deadlift.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\17 Russian twists with DB.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\18 Upright KB Row.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\19 Burpee.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\2 WodBox Dips.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\20 Mountain climbers.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\21 Glute bridges.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\22 Pike Push-ups.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\23 Burpee WodBox Jump.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\24 Bulgarian Split squats.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\25 Sumo Deadlift.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\26 Clean and Jerk Single Arm.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\27 Weighted Sit-ups.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\28 KB Sumo deadlift High Pull.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\29 DB Triceps Overhead Extension.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\3 Goblet Squat.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\30 DB Snatches.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\31 Push-up Kick Through.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\32 Shoulder Taps.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\33 Box Jump Over.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\34 DB Push-up to Row (Single Arm).mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\35 KB Swings.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\36 DB Overhead Reverse Lunges.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\38 WodBox Leg Tucks.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\39 Elevated WodBox Push-ups.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\4 Plank.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\42 DB Thrusters Single Arm.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\5 Push-ups.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\6 Sit-ups.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\7 Squat Jumps.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\8 DB Front Rack Squat.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\9 Single Arm DB Push-Press.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\wodapi.exe
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\wodapi.deps.json
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\wodapi.runtimeconfig.json
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\wodapi.pdb
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Api.Gax.Rest.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.Drive.v3.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.NetworkServices.v1.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.Storage.v1.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Cloud.Storage.V1.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Management.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.csproj.AssemblyReference.cache
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.AssemblyInfoInputs.cache
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.AssemblyInfo.cs
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.csproj.CoreCompileInputs.cache
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.wodapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.build.wodapi.props
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.wodapi.props
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.wodapi.props
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\scopedcss\bundle\wodapi.styles.css
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.csproj.CopyComplete
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\refint\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.pdb
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.genruntimeconfig.cache
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\ref\wodapi.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\weightedwodboxstepups.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\weightedwodboxstepupsmobile.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\wodboxjumps.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\wodboxjumpsmbl.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\4mbl.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\wodboxstepovers.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\wodboxstepoversmbl.mp4
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\4.mp4
