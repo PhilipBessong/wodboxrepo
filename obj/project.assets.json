@@ -12181,11 +12181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Philip Bessong\\Desktop\\finaletwo\\wodapi\\wodapi.csproj",
+      "projectUniqueName": "C:\\Users\\Philip Bessong\\Desktop\\wodapi\\wodapi.csproj",
       "projectName": "wodapi",
-      "projectPath": "C:\\Users\\Philip Bessong\\Desktop\\finaletwo\\wodapi\\wodapi.csproj",
+      "projectPath": "C:\\Users\\Philip Bessong\\Desktop\\wodapi\\wodapi.csproj",
       "packagesPath": "C:\\Users\\Philip Bessong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Philip Bessong\\Desktop\\finaletwo\\wodapi\\obj\\",
+      "outputPath": "C:\\Users\\Philip Bessong\\Desktop\\wodapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
