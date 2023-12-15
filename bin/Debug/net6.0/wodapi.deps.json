@@ -14,6 +14,7 @@
           "Google.Apis.Core": "1.64.0",
           "Google.Apis.Drive.v3": "1.64.0.3155",
           "Google.Apis.NetworkServices.v1": "1.64.0.3190",
+          "Google.Cloud.DevTools.Common": "3.0.0",
           "Google.Cloud.Storage.V1": "4.7.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.24",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "6.0.25",
@@ -82,6 +83,17 @@
           "lib/net6.0/DocumentFormat.OpenXml.Framework.dll": {
             "assemblyVersion": "3.0.0.0",
             "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "Google.Api.CommonProtos/2.5.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.18.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Api.CommonProtos.dll": {
+            "assemblyVersion": "2.5.0.0",
+            "fileVersion": "2.5.0.0"
           }
         }
       },
@@ -185,6 +197,17 @@
           }
         }
       },
+      "Google.Cloud.DevTools.Common/3.0.0": {
+        "dependencies": {
+          "Google.Api.CommonProtos": "2.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Google.Cloud.DevTools.Common.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
       "Google.Cloud.Storage.V1/4.7.0": {
         "dependencies": {
           "Google.Api.Gax.Rest": "4.4.0",
@@ -194,6 +217,14 @@
           "lib/netstandard2.1/Google.Cloud.Storage.V1.dll": {
             "assemblyVersion": "4.7.0.0",
             "fileVersion": "4.7.0.0"
+          }
+        }
+      },
+      "Google.Protobuf/3.18.0": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.18.0.0",
+            "fileVersion": "3.18.0.0"
           }
         }
       },
@@ -2963,6 +2994,13 @@
       "path": "documentformat.openxml.framework/3.0.0",
       "hashPath": "documentformat.openxml.framework.3.0.0.nupkg.sha512"
     },
+    "Google.Api.CommonProtos/2.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E3XQotIEGsk3s6nux/oQKtAqUTZ6RK56gSxDwf16OV2QmWMlFXeITajW+Pi2COT+dqChIuPp2z3otvEnPosaqg==",
+      "path": "google.api.commonprotos/2.5.0",
+      "hashPath": "google.api.commonprotos.2.5.0.nupkg.sha512"
+    },
     "Google.Api.Gax/4.4.0": {
       "type": "package",
       "serviceable": true,
@@ -3019,12 +3057,26 @@
       "path": "google.apis.storage.v1/1.63.0.3206",
       "hashPath": "google.apis.storage.v1.1.63.0.3206.nupkg.sha512"
     },
+    "Google.Cloud.DevTools.Common/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-En/N+MDbzalKYMiUGsl9KBgW7sH0stG+b8r8hTUSCM1NV9KO9YX2hkqh0XH7fBKz+TZ/yPFihr93f4jr5dXV7Q==",
+      "path": "google.cloud.devtools.common/3.0.0",
+      "hashPath": "google.cloud.devtools.common.3.0.0.nupkg.sha512"
+    },
     "Google.Cloud.Storage.V1/4.7.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-KjnQJ/u9eStHvfLkljqR/C4v0See4zxG0CW1+jHo2zgmlohbNXgmZMRiCxHLLnAHXu8kfjISpmaid/yrJZPt/g==",
       "path": "google.cloud.storage.v1/4.7.0",
       "hashPath": "google.cloud.storage.v1.4.7.0.nupkg.sha512"
+    },
+    "Google.Protobuf/3.18.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Jm6+nppUm9LD+XVsLFkf1YyVlAKsG5gq+Hc/Rn3Zi2pDObBI6PCH/eHBFUJdARl40DpczEdHlV3+WTPOGIXetg==",
+      "path": "google.protobuf/3.18.0",
+      "hashPath": "google.protobuf.3.18.0.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",

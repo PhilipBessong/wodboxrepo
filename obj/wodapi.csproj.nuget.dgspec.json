@@ -69,6 +69,10 @@
               "target": "Package",
               "version": "[1.64.0.3190, )"
             },
+            "Google.Cloud.DevTools.Common": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Google.Cloud.Storage.V1": {
               "target": "Package",
               "version": "[4.7.0, )"

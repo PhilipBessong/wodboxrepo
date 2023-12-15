@@ -539,82 +539,6 @@ C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\wodapi.gen
 C:\Users\Philip Bessong\Desktop\finale - Copy\wodapi\obj\Debug\net6.0\ref\wodapi.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\appsettings.json
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Box Jump Over.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Bulgarian Split Squats.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Burpee WodBox Jump.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Burpee.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Clean and Jerk Single Arm.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Front Rack Squat.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Hang clean & Jerk.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Overhead Reverse Lunges.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Push-up to Row.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Snatches.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Thrusters Single Arm.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\DB Triceps Overhead Extension.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Elevated WodBox Push-ups.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Glute bridges.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Goblet Squat.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\High Plank Drag Across.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Jumping Jacks.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\KB Bicep Curl.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\KB Single Leg Romanian Deadlift.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\KB Sumo Deadlift High Pull.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\KB Swings.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Mountain Climbers.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Pike Push-ups.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Plank.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Push-up Kick Through.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Push-ups.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Russian twists with DB.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Shoulder Taps.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Single Arm DB Push-Press.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Single Arm Rows on Box.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Sit-ups.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Squat Jumps.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Sumo Deadlift.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Upright KB Row.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\Weighted Sit-ups.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\WodBox Dips.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\WodBox Leg Tucks.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\mobile\WodBox Toe Taps.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\1 Jumping Jacks.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\11 Single arm Rows on Box.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\12 DB Hang Clean & Jerk.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\13 WodBox Toe Taps.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\14 KB Bicep Curl.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\15 High Plank DB Drag Across.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\16 KB Single Leg Romanian Deadlift.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\17 Russian twists with DB.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\18 Upright KB Row.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\19 Burpee.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\2 WodBox Dips.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\20 Mountain climbers.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\21 Glute bridges.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\22 Pike Push-ups.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\23 Burpee WodBox Jump.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\24 Bulgarian Split squats.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\25 Sumo Deadlift.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\26 Clean and Jerk Single Arm.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\27 Weighted Sit-ups.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\28 KB Sumo deadlift High Pull.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\29 DB Triceps Overhead Extension.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\3 Goblet Squat.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\30 DB Snatches.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\31 Push-up Kick Through.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\32 Shoulder Taps.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\33 Box Jump Over.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\34 DB Push-up to Row (Single Arm).mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\35 KB Swings.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\36 DB Overhead Reverse Lunges.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\38 WodBox Leg Tucks.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\39 Elevated WodBox Push-ups.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\4 Plank.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\42 DB Thrusters Single Arm.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\5 Push-ups.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\6 Sit-ups.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\7 Squat Jumps.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\8 DB Front Rack Squat.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\text\9 Single Arm DB Push-Press.mp4
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\wodapi.exe
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\wodapi.deps.json
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\wodapi.runtimeconfig.json
@@ -624,6 +548,7 @@ C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Api.CommonProtos.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Api.Gax.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Api.Gax.Rest.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.dll
@@ -633,7 +558,9 @@ C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.Co
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.Drive.v3.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.NetworkServices.v1.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Apis.Storage.v1.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Cloud.DevTools.Common.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Cloud.Storage.V1.dll
+C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Google.Protobuf.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\MessagePack.dll
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\MessagePack.Annotations.dll
@@ -901,11 +828,3 @@ C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\refint\wodapi.
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.pdb
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\wodapi.genruntimeconfig.cache
 C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\obj\Debug\net6.0\ref\wodapi.dll
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\weightedwodboxstepups.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\weightedwodboxstepupsmobile.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\wodboxjumps.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\wodboxjumpsmbl.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\4mbl.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\wodboxstepovers.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\wodboxstepoversmbl.mp4
-C:\Users\Philip Bessong\Desktop\finaletwo\wodapi\bin\Debug\net6.0\videos\4.mp4

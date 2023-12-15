@@ -143,16 +143,7 @@ namespace wodapi.Controllers
             return (_context.Workouts?.Any(e => e.id == id)).GetValueOrDefault();
         }
 
-        // GET api/workouts/byCategory
-        [HttpGet("byCategory")]
-        public async Task<ActionResult<IEnumerable<Workout>>> GetWorkoutsByCategoryAsync([FromQuery] string wodCat)
-        {
-            var workouts = await _context.Workouts
-                .Where(w => w.wodCat == wodCat)
-                .ToListAsync();
-
-            return Ok(workouts);
-        }
+       
 
         [HttpGet("by-category/{wodCat}/today")]
         public async Task<ActionResult<IEnumerable<Workout>>> GetWorkoutsByCategoryAndTodayAsync(string wodCat)

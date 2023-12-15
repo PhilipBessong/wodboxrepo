@@ -78,6 +78,22 @@
           }
         }
       },
+      "Google.Api.CommonProtos/2.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Google.Protobuf": "[3.18.0, 4.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.0/Google.Api.CommonProtos.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Api.CommonProtos.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Google.Api.Gax/4.4.0": {
         "type": "package",
         "dependencies": {
@@ -216,6 +232,22 @@
           }
         }
       },
+      "Google.Cloud.DevTools.Common/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Google.Api.CommonProtos": "[2.5.0, 3.0.0)"
+        },
+        "compile": {
+          "lib/netstandard2.1/Google.Cloud.DevTools.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/Google.Cloud.DevTools.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Google.Cloud.Storage.V1/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -229,6 +261,19 @@
         },
         "runtime": {
           "lib/netstandard2.1/Google.Cloud.Storage.V1.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Google.Protobuf/3.18.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -4387,6 +4432,25 @@
         "lib/netstandard2.0/DocumentFormat.OpenXml.Framework.xml"
       ]
     },
+    "Google.Api.CommonProtos/2.5.0": {
+      "sha512": "E3XQotIEGsk3s6nux/oQKtAqUTZ6RK56gSxDwf16OV2QmWMlFXeITajW+Pi2COT+dqChIuPp2z3otvEnPosaqg==",
+      "type": "package",
+      "path": "google.api.commonprotos/2.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "NuGetIcon.png",
+        "google.api.commonprotos.2.5.0.nupkg.sha512",
+        "google.api.commonprotos.nuspec",
+        "lib/net461/Google.Api.CommonProtos.dll",
+        "lib/net461/Google.Api.CommonProtos.pdb",
+        "lib/net461/Google.Api.CommonProtos.xml",
+        "lib/netstandard2.0/Google.Api.CommonProtos.dll",
+        "lib/netstandard2.0/Google.Api.CommonProtos.pdb",
+        "lib/netstandard2.0/Google.Api.CommonProtos.xml"
+      ]
+    },
     "Google.Api.Gax/4.4.0": {
       "sha512": "vkqxzz54dRdl3uUmz0hOhMfR9EjGrWJI+SeOl3UC1Gr/mHfHOwYiRPnJbub+77/xS0lAJBs02iOh3ay9zgzW4Q==",
       "type": "package",
@@ -4565,6 +4629,25 @@
         "lib/netstandard2.0/Google.Apis.Storage.v1.xml"
       ]
     },
+    "Google.Cloud.DevTools.Common/3.0.0": {
+      "sha512": "En/N+MDbzalKYMiUGsl9KBgW7sH0stG+b8r8hTUSCM1NV9KO9YX2hkqh0XH7fBKz+TZ/yPFihr93f4jr5dXV7Q==",
+      "type": "package",
+      "path": "google.cloud.devtools.common/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "NuGetIcon.png",
+        "google.cloud.devtools.common.3.0.0.nupkg.sha512",
+        "google.cloud.devtools.common.nuspec",
+        "lib/net462/Google.Cloud.DevTools.Common.dll",
+        "lib/net462/Google.Cloud.DevTools.Common.pdb",
+        "lib/net462/Google.Cloud.DevTools.Common.xml",
+        "lib/netstandard2.1/Google.Cloud.DevTools.Common.dll",
+        "lib/netstandard2.1/Google.Cloud.DevTools.Common.pdb",
+        "lib/netstandard2.1/Google.Cloud.DevTools.Common.xml"
+      ]
+    },
     "Google.Cloud.Storage.V1/4.7.0": {
       "sha512": "KjnQJ/u9eStHvfLkljqR/C4v0See4zxG0CW1+jHo2zgmlohbNXgmZMRiCxHLLnAHXu8kfjISpmaid/yrJZPt/g==",
       "type": "package",
@@ -4582,6 +4665,29 @@
         "lib/netstandard2.1/Google.Cloud.Storage.V1.dll",
         "lib/netstandard2.1/Google.Cloud.Storage.V1.pdb",
         "lib/netstandard2.1/Google.Cloud.Storage.V1.xml"
+      ]
+    },
+    "Google.Protobuf/3.18.0": {
+      "sha512": "Jm6+nppUm9LD+XVsLFkf1YyVlAKsG5gq+Hc/Rn3Zi2pDObBI6PCH/eHBFUJdARl40DpczEdHlV3+WTPOGIXetg==",
+      "type": "package",
+      "path": "google.protobuf/3.18.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "google.protobuf.3.18.0.nupkg.sha512",
+        "google.protobuf.nuspec",
+        "lib/net45/Google.Protobuf.dll",
+        "lib/net45/Google.Protobuf.pdb",
+        "lib/net45/Google.Protobuf.xml",
+        "lib/net5.0/Google.Protobuf.dll",
+        "lib/net5.0/Google.Protobuf.pdb",
+        "lib/net5.0/Google.Protobuf.xml",
+        "lib/netstandard1.1/Google.Protobuf.dll",
+        "lib/netstandard1.1/Google.Protobuf.pdb",
+        "lib/netstandard1.1/Google.Protobuf.xml",
+        "lib/netstandard2.0/Google.Protobuf.dll",
+        "lib/netstandard2.0/Google.Protobuf.pdb",
+        "lib/netstandard2.0/Google.Protobuf.xml"
       ]
     },
     "Humanizer/2.14.1": {
@@ -12055,6 +12161,7 @@
       "Google.Apis.Core >= 1.64.0",
       "Google.Apis.Drive.v3 >= 1.64.0.3155",
       "Google.Apis.NetworkServices.v1 >= 1.64.0.3190",
+      "Google.Cloud.DevTools.Common >= 3.0.0",
       "Google.Cloud.Storage.V1 >= 4.7.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.24",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 6.0.25",
@@ -12135,6 +12242,10 @@
           "Google.Apis.NetworkServices.v1": {
             "target": "Package",
             "version": "[1.64.0.3190, )"
+          },
+          "Google.Cloud.DevTools.Common": {
+            "target": "Package",
+            "version": "[3.0.0, )"
           },
           "Google.Cloud.Storage.V1": {
             "target": "Package",

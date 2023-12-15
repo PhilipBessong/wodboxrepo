@@ -13,6 +13,7 @@
     <PackageReference Include="Google.Apis.Core" Version="1.64.0" />
     <PackageReference Include="Google.Apis.Drive.v3" Version="1.64.0.3155" />
     <PackageReference Include="Google.Apis.NetworkServices.v1" Version="1.64.0.3190" />
+    <PackageReference Include="Google.Cloud.DevTools.Common" Version="3.0.0" />
     <PackageReference Include="Google.Cloud.Storage.V1" Version="4.7.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.24" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.25" />
@@ -27,10 +28,5 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
-	<ItemGroup>
-		<None Update="videos\**\*.*">
-			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-		</None>
-	</ItemGroup>
 
 </Project>
