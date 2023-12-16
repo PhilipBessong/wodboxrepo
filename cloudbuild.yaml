@@ -13,5 +13,3 @@ steps:
   - '--no-restore'
   - '--runtime'
   - 'linux-x64'
-
-# Add more steps as needed...
