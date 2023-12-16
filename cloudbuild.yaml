@@ -16,4 +16,4 @@ steps:
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'cd wodboxrepo && dotnet build -c Release --no-restore --runtime win-x64'
+  - 'cd wodboxrepo && dotnet build -c Release --no-restore'
