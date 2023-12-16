@@ -3,7 +3,7 @@ steps:
   entrypoint: '/bin/bash'
   args:
   - '-c'
-  - 'git clone --branch main https://github.com/PhilipBessong/wodboxrepo /workspace/wodboxrepo'
+  - 'git clone --branch main https://github.com/PhilipBessong/wodboxrepo.git /workspace/wodboxrepo'
 
 
 - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
