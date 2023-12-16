@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Philip Bessong\\Desktop\\wodapi\\wodapi.csproj": {}
+    "C:\\Users\\Philip Bessong\\Documents\\GitHub\\dawodapi\\wodapi\\wodapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Philip Bessong\\Desktop\\wodapi\\wodapi.csproj": {
+    "C:\\Users\\Philip Bessong\\Documents\\GitHub\\dawodapi\\wodapi\\wodapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Philip Bessong\\Desktop\\wodapi\\wodapi.csproj",
+        "projectUniqueName": "C:\\Users\\Philip Bessong\\Documents\\GitHub\\dawodapi\\wodapi\\wodapi.csproj",
         "projectName": "wodapi",
-        "projectPath": "C:\\Users\\Philip Bessong\\Desktop\\wodapi\\wodapi.csproj",
+        "projectPath": "C:\\Users\\Philip Bessong\\Documents\\GitHub\\dawodapi\\wodapi\\wodapi.csproj",
         "packagesPath": "C:\\Users\\Philip Bessong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Philip Bessong\\Desktop\\wodapi\\obj\\",
+        "outputPath": "C:\\Users\\Philip Bessong\\Documents\\GitHub\\dawodapi\\wodapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
