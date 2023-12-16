@@ -3,7 +3,7 @@ steps:
   entrypoint: '/bin/bash'
   args:
   - '-c'
-  - 'rm -rf /workspace/*'
+  - 'rm -rf /wodapi/*'
 
 - name: 'gcr.io/cloud-builders/git'
   entrypoint: '/bin/bash'
