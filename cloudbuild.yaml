@@ -10,7 +10,7 @@ steps:
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'cd wodboxrepo && dotnet restore --runtime linux-x64 --source https://api.nuget.org/v3/index.json'
+  - 'cd wodboxrepo && dotnet restore --source https://api.nuget.org/v3/index.json'
 
 - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
   entrypoint: 'bash'
