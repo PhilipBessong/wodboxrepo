@@ -3,7 +3,8 @@ steps:
   args:
   - 'restore'
   - '-r'
-  - 'linux-x64'  # Specify a runtime identifier suitable for the build environment
+  - 'linux-x64'
+  - 'wodapi/wodapi.csproj'  # Replace with the actual path to your .csproj file
 
 - name: 'gcr.io/cloud-builders/dotnet'
   args:
@@ -13,5 +14,6 @@ steps:
   - '--no-restore'
   - '-r'
   - 'linux-x64'
+  - 'wodapi/wodapi.csproj'  # Replace with the actual path to your .csproj file
 
 # Add more steps as needed...
