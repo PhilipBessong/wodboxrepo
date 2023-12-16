@@ -3,7 +3,7 @@ steps:
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'mkdir /workspace/clone && git clone https://github.com/PhilipBessong/wodboxrepo /workspace/clone'
+  - 'git clone https://github.com/PhilipBessong/wodboxrepo /workspace/clone'
 
 - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
   entrypoint: 'bash'
