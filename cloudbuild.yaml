@@ -5,6 +5,7 @@ steps:
   - '-c'
   - 'rm -rf /wodapi/*'
 
+
 - name: 'gcr.io/cloud-builders/git'
   entrypoint: '/bin/bash'
   args:
@@ -22,3 +23,4 @@ steps:
   args:
   - '-c'
   - 'cd wodapi && dotnet build -c Release --no-restore --runtime linux-x64'
+
