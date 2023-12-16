@@ -1,6 +1,7 @@
 steps:
 - name: 'gcr.io/cloud-builders/git'
-  args: ['clone', 'https://github.com/PhilipBessong/wodboxrepo', '.']
+  args: ['clone', '--depth=1', 'https://github.com/PhilipBessong/wodboxrepo', '.']
+
 
 - name: 'mcr.microsoft.com/dotnet/sdk:latest'
   entrypoint: 'bash'
