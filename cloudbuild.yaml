@@ -1,5 +1,23 @@
 steps:
-  - name: 'gcr.io/cloud-builders/dotnet'
-    args: ['publish', '-c', 'Release']
-  - name: 'gcr.io/cloud-builders/gcloud'
-    args: ['app', 'deploy']
+# Step 1: Run 'dotnet restore' to restore NuGet dependencies
+- name: 'gcr.io/cloud-builders/dotnet'
+  entrypoint: 'bash'
+  args:
+  - '-c'
+  - 'dotnet restore'
+
+# Step 2: Build your C# application
+- name: 'gcr.io/cloud-builders/dotnet'
+  args:
+  - 'build'
+  - '-c'
+  - 'Release'
+  - '--no-restore'  # Skip restore since it was done in the previous step
+
+# Add more steps as needed...
+
+# Final step: Deploy your application (example)
+- name: 'gcr.io/cloud-builders/gcloud'
+  args: ['app', 'deploy']
+
+# You can include additional steps for deployment or testing as needed
