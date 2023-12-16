@@ -3,7 +3,8 @@ steps:
   entrypoint: '/bin/bash'
   args:
   - '-c'
-  - 'find /workspace/ -mindepth 1 -maxdepth 1 ! -name ".git" -exec rm -rf {} +'
+  - 'git clone --branch 5e6846c0e4d3bdb65c7c30c8eac61e422bcc4400 https://github.com/PhilipBessong/wodboxrepo /workspace/wodboxrepo'
+
 
 
 - name: 'gcr.io/cloud-builders/git'
