@@ -3,17 +3,16 @@ steps:
   entrypoint: '/bin/bash'
   args:
   - '-c'
-  - 'git clone --branch e655a3f3-5842-4f9a-8cec-a48f359ba40f https://github.com/PhilipBessong/wodboxrepo /workspace/wodboxrepo'
+  - 'git clone --branch main https://github.com/PhilipBessong/wodboxrepo /workspace'
 
 - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'cd wodapi && dotnet restore --runtime linux-x64 --source https://api.nuget.org/v3/index.json'
+  - 'cd wodboxrepo && dotnet restore --runtime linux-x64 --source https://api.nuget.org/v3/index.json'
 
 - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'cd wodapi && dotnet build -c Release --no-restore --runtime linux-x64'
-
+  - 'cd wodboxrepo && dotnet build -c Release --no-restore --runtime linux-x64'
