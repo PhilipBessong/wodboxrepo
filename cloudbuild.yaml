@@ -1,9 +1,26 @@
 steps:
+- name: 'gcr.io/cloud-builders/git'
+  args: ['clone', 'https://github.com/PhilipBessong/wodboxrepo', '.']
+
+- name: 'gcr.io/cloud-builders/dotnet'
+  entrypoint: 'bash'
+  args:
+  - '-c'
+  - |
+    DOTNET_VERSION="6.0.100"
+    DOTNET_SDK_URL="https://download.visualstudio.microsoft.com/download/pr/2c8d5080-94bc-40d8-9f15-0a0594f05a4f/d80ae017be1c1218bf0c1cf96a005035/dotnet-sdk-${DOTNET_VERSION}-linux-x64.tar.gz"
+    
+    wget -O dotnet.tar.gz ${DOTNET_SDK_URL}
+    mkdir -p /usr/share/dotnet
+    tar -C /usr/share/dotnet -xzf dotnet.tar.gz
+    rm dotnet.tar.gz
+    export PATH=$PATH:/usr/share/dotnet
+
 - name: 'gcr.io/cloud-builders/dotnet'
   args:
   - 'restore'
   - '--runtime'
-  - 'linux-x64'  # Specify a runtime identifier suitable for the build environment
+  - 'linux-x64'
 
 - name: 'gcr.io/cloud-builders/dotnet'
   args:
