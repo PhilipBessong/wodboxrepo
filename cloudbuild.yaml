@@ -1,15 +1,11 @@
 steps:
 - name: 'gcr.io/cloud-builders/git'
+  entrypoint: '/bin/bash'
   args:
-  - 'clone'
-  - '--branch'
-  - '5e6846c0e4d3bdb65c7c30c8eac61e422bcc4400'
-  - 'https://github.com/PhilipBessong/wodboxrepo'
-  - '.'
-  - '--'
-  - '/bin/rm'
-  - '-rf'
-  - './*'
+  - '-c'
+  - |
+    rm -rf ./*
+    git clone --branch 5e6846c0e4d3bdb65c7c30c8eac61e422bcc4400 https://github.com/PhilipBessong/wodboxrepo .
 
 
 - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
