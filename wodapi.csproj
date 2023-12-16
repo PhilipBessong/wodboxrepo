@@ -4,8 +4,6 @@
      <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <OutputType>Exe</OutputType>
-      <!-- Specify the RuntimeIdentifier at the project level -->
-  <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
