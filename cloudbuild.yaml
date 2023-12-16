@@ -9,4 +9,4 @@ steps:
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'cd wodboxrepo && dotnet build -c Release --no-restore'
+  - 'cd wodboxrepo && dotnet build -c Release '
