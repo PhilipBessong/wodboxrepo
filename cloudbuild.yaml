@@ -6,7 +6,7 @@ steps:
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'dotnet restore --runtime linux-x64'
+  - 'dotnet restore --runtime linux-x64 --source https://api.nuget.org/v3/index.json'
 
 - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
   entrypoint: 'bash'
