@@ -1,18 +1,15 @@
 steps:
 - name: 'gcr.io/cloud-builders/git'
-  entrypoint: 'bash'
-  args:
-  - '-c'
-  - 'git clone https://github.com/PhilipBessong/wodboxrepo /workspace/clone'
+  args: ['checkout', '5e6846c0e4d3bdb65c7c30c8eac61e422bcc4400']
 
 - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'cd /workspace/clone && dotnet restore --runtime linux-x64 --source https://api.nuget.org/v3/index.json'
+  - 'dotnet restore --runtime linux-x64 --source https://api.nuget.org/v3/index.json'
 
 - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'cd /workspace/clone && dotnet build -c Release --no-restore --runtime linux-x64'
+  - 'dotnet build -c Release --no-restore --runtime linux-x64'
