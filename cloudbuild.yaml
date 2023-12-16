@@ -3,16 +3,16 @@ steps:
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'rm -rf /workspace/* && git clone https://github.com/PhilipBessong/wodboxrepo /workspace'
+  - 'mkdir /workspace/clone && git clone https://github.com/PhilipBessong/wodboxrepo /workspace/clone'
 
 - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'dotnet restore --runtime linux-x64 --source https://api.nuget.org/v3/index.json'
+  - 'cd /workspace/clone && dotnet restore --runtime linux-x64 --source https://api.nuget.org/v3/index.json'
 
 - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'dotnet build -c Release --no-restore --runtime linux-x64'
+  - 'cd /workspace/clone && dotnet build -c Release --no-restore --runtime linux-x64'
