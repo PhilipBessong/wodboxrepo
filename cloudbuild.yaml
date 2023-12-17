@@ -1,12 +1,14 @@
 steps:
-- name: 'gcr.io/cloud-builders/git'
-  entrypoint: '/bin/bash'
-  args:
-  - '-c'
-  - 'git clone --branch main https://github.com/PhilipBessong/wodboxrepo /workspace/wodboxrepo'
- - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
+  - name: 'gcr.io/cloud-builders/git'
+    entrypoint: '/bin/bash'
+    args:
+      - '-c'
+      - 'git clone --branch main https://github.com/PhilipBessong/wodboxrepo /workspace/wodboxrepo'
+
+  - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
     entrypoint: 'bash'
     args:
       - '-c'
       - 'cd /workspace/wodboxrepo && dotnet build -c Release'
 
+# Other configurations...
