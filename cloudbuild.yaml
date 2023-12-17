@@ -5,8 +5,9 @@ steps:
   - '-c'
   - 'git clone --branch main https://github.com/PhilipBessong/wodboxrepo /workspace/wodboxrepo'
 
-- name: 'mcr.microsoft.com/dotnet/sdk:6.0'
-  entrypoint: 'bash'
-  args:
-  - '-c'
-  - 'cd wodboxrepo && dotnet build -c Release '
+ - name: 'mcr.microsoft.com/dotnet/sdk:6.0'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - 'cd /workspace/source/wodboxrepo && dotnet build -c Release'
+
