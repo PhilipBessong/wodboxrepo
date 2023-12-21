@@ -23,7 +23,7 @@ export class SignupPage implements OnInit {
       role: 'Client',
     };
 
-    this.http.post<any>('https://localhost:7013/api/Users', user).subscribe(
+    this.http.post<any>('https://wodbox.appspot.com/api/Users', user).subscribe(
       (response) => {
         console.log('User signed up successfully', response);
         // Redirect to login or another page

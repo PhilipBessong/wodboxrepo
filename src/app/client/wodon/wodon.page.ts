@@ -2,7 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { DataserviceService } from 'src/app/dataservice.service';
-import { Workout } from 'src/app/models/wod.model';
+import { Workout, Exercises } from 'src/app/models/wod.model';
 import { Router } from '@angular/router';
 import { ModalController } from '@ionic/angular';
 import { ModalContentPage } from '../modal-content/modal-content.page'; // Import your modal component
@@ -16,6 +16,7 @@ import { NavController, ToastController } from '@ionic/angular';
 export class WodonPage implements OnInit {
 
   workouts: Workout[] = [];
+  exercises: Exercises[]=[];
   constructor(
     private toastController: ToastController,
 
@@ -50,40 +51,76 @@ export class WodonPage implements OnInit {
           workout.styleDescription = style?.styleDescription;
         });
         if (workout.r1m1) {
-          workout.exe = this.dataService.getExerciseByName(workout.r1m1);
+          const exeName = workout.r1m1;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+            workout.exe = exercises;
+          });
         }
         if (workout.r1m2) {
-          workout.exeR1M2 = this.dataService.getExerciseByName(workout.r1m2);
+          const exeName = workout.r1m2;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+          workout.exeR1M2 = exercises;
+        });
         }
         if (workout.r1m3) {
-          workout.exeR1M3 = this.dataService.getExerciseByName(workout.r1m3);
+          const exeName = workout.r1m3;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+          workout.exeR1M3 = exercises;
+        });
         }
         if (workout.r2m1) {
-          workout.exeR2M1 = this.dataService.getExerciseByName(workout.r2m1);
+          const exeName = workout.r2m1;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+          workout.exeR2M1 = exercises;
+        });
         }
         if (workout.r2m2) {
-          workout.exeR2M2 = this.dataService.getExerciseByName(workout.r2m2);
+          const exeName = workout.r2m2;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+          workout.exeR2M2 = exercises;
+        });
         }
         if (workout.r2m3) {
-          workout.exeR2M3 = this.dataService.getExerciseByName(workout.r2m3);
+          const exeName = workout.r2m3;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+          workout.exeR2M3 = exercises;
+        });
         }
         if (workout.r3m1) {
-          workout.exeR3M1 = this.dataService.getExerciseByName(workout.r3m1);
+          const exeName = workout.r3m1;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+          workout.exeR3M1 = exercises;
+        });
         }
         if (workout.r3m2) {
-          workout.exeR3M2 = this.dataService.getExerciseByName(workout.r3m2);
+          const exeName = workout.r3m2;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+          workout.exeR3M2 = exercises;
+        });
         }
         if (workout.r3m3) {
-          workout.exeR3M3 = this.dataService.getExerciseByName(workout.r3m3);
+          const exeName = workout.r3m3;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+          workout.exeR3M3 = exercises;
+        });
         }
         if (workout.r4m1) {
-          workout.exeR4M1 = this.dataService.getExerciseByName(workout.r4m1);
+          const exeName = workout.r4m1;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+          workout.exeR4M1 = exercises;
+        });
         }
         if (workout.r4m2) {
-          workout.exeR4M2 = this.dataService.getExerciseByName(workout.r4m2);
+          const exeName = workout.r4m2;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+          workout.exeR4M2 = exercises;
+        });
         }
         if (workout.r4m3) {
-          workout.exeR4M3 = this.dataService.getExerciseByName(workout.r4m3);
+          const exeName = workout.r4m3;
+          this.dataService.getExebyname(exeName).subscribe((exercises) => {
+          workout.exeR4M3 = exercises;
+        });
         }
       });
     });

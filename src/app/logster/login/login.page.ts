@@ -26,7 +26,7 @@ export class LoginPage implements OnInit {
     const credentials = { email: this.email, password: this.password, role: 'Admin' };
 
     this.http
-      .post<any>('https://localhost:7013/api/Users/login', credentials)
+      .post<any>('https://https://wodbox.appspot.com/api/Users/login', credentials)
       .subscribe(
         (response) => {
           localStorage.setItem('token', response.token);

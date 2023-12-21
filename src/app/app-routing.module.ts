@@ -28,10 +28,6 @@ const routes: Routes = [
     loadChildren: () => import('./logster/signup/signup.module').then( m => m.SignupPageModule)
   },
   {
-    path: 'wodhome',
-    loadChildren: () => import('./client/wodhome/wodhome.module').then( m => m.WodhomePageModule)
-  },
-  {
     path: 'wodcat',
     loadChildren: () => import('./client/wodcat/wodcat.module').then( m => m.WodcatPageModule)
   },

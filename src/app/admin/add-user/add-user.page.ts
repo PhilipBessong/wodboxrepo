@@ -33,7 +33,7 @@ export class AddUserPage   {
    
 
     // Call the API service to add the workout
-    this.http.post<any>('https://localhost:7013/api/Users', this.user).subscribe(
+    this.http.post<any>('https://wodvidservice@wodbox-407204.iam.gserviceaccount.com/api/Users', this.user).subscribe(
       async (response) => {
         // Show a success message using a toast
         const toast = await this.toastController.create({

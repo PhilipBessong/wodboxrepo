@@ -54,10 +54,10 @@ export class Style {
   ) {}
 }
 export interface Exercises{
-  exeId: number,
-  exeName: string,
-  videoUrl: string,
-  mobileUrl: string,
+  exeId: number;
+  exeName: string;
+  videoUrl: string;
+  mobileUrl: string;
 }
 export class Exercise {
   constructor(
