@@ -1,4 +1,5 @@
 runtime: nodejs
 env: flex
 
-
+env_variables:
+  BUCKET_NAME: gs://wodappbckt
