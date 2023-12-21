@@ -1,0 +1,12 @@
+steps:
+  - name: 'gcr.io/cloud-builders/git'
+    args: ['clone', 'https://github.com/PhilipBessong/wodboxrepo', 'app']
+  - name: 'gcr.io/cloud-builders/npm'
+    args: ['install']
+    dir: 'app'
+  - name: 'gcr.io/cloud-builders/npm'
+    args: ['run', 'build']
+    dir: 'app'
+  - name: 'gcr.io/cloud-builders/gcloud'
+    args: ['app', 'deploy', '--version', 'wodboxappv1']
+    dir: 'app'
