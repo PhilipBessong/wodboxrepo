@@ -10,3 +10,7 @@ steps:
   - name: 'gcr.io/cloud-builders/gcloud'
     args: ['app', 'deploy', '--version', 'wodboxappv1']
     dir: 'app'
+
+    options:
+  # Specify the service account to use for the deployment step
+  serviceAccount: '454236300989-compute@developer.gserviceaccount.com'
