@@ -18,3 +18,9 @@ steps:
       - '--project=wodbox-407204'
       - 'app.yaml'
     dir: 'app'
+    env:
+      # Set environment variables if needed
+
+options:
+  logging: CLOUD_LOGGING_ONLY  # or set to NONE if you don't want any logging
+  machineType: N1_HIGHCPU_8  # example: adjust if needed
