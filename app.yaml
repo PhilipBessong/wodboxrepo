@@ -3,3 +3,8 @@ env: flex
 
 env_variables:
   BUCKET_NAME: gs://wodappbckt
+
+
+skip_files:
+  - ^node_modules$
+
