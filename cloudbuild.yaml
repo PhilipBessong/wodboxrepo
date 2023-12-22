@@ -25,7 +25,5 @@ steps:
       - '--quiet'
       - '--project=wodbox-407204'
       - '--version=v1' # Replace with your app version
-      - '--platform=managed'
-      - '--region=us-central1' # Replace with your desired region
-      - '--no-promote'
-      - '--no-stop-previous-version'
+    dir: 'app'
+
