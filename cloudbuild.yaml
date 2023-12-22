@@ -10,14 +10,6 @@ steps:
     args: ['run', 'build']
     dir: 'app'
 
-  - name: 'gcr.io/cloud-builders/npm'
-    args: ['install', '-g', '@angular/cli']
-    dir: 'app'
-
-  - name: 'gcr.io/cloud-builders/npm'
-    args: ['run', 'build', '--prod']
-    dir: 'app'
-
   - name: 'gcr.io/cloud-builders/gcloud'
     args:
       - 'app'
@@ -25,5 +17,4 @@ steps:
       - '--quiet'
       - '--project=wodbox-407204'
       - '--version=v1' # Replace with your app version
-    dir: 'app'
-
+      - 'app.yaml'
