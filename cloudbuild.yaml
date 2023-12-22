@@ -7,8 +7,8 @@ steps:
     dir: 'app'  # Set the working directory to 'app'
 
   - name: 'gcr.io/cloud-builders/npm'
-    args: ['run', 'build:angular']
-    dir: 'app'  # Set the working directory to 'app'
+    args: ['run', 'build']
+    dir: 'app'
 
   - name: 'gcr.io/cloud-builders/gcloud'
     args:

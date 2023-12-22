@@ -10,8 +10,7 @@
       "watch": "ng build --watch --configuration development",
       "test": "ng test",
       "lint": "ng lint",
-      "build:angular": "ng build --prod"
-
+      "build:ionic": "./node_modules/.bin/ionic build --prod"
     },
     "private": true,
     "dependencies": {
