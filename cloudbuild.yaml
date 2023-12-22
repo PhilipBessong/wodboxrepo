@@ -6,9 +6,9 @@ steps:
     args: ['install']
     dir: 'app'
 
-  - name: 'gcr.io/cloud-builders/npm'
-    args: ['run', 'build']
-    dir: 'app'
+ - name: 'gcr.io/cloud-builders/npm'
+  args: ['run', 'ionic', 'build', '--prod']
+  dir: 'app'
 
   - name: 'gcr.io/cloud-builders/gcloud'
     args:
