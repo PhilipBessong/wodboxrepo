@@ -18,3 +18,6 @@ steps:
       - '--project=wodbox-407204'
       - '--version=v1' # Replace with your app version
       - 'app.yaml'
+
+options:
+  default_logs_bucket_behavior: 'REGIONAL_USER_OWNED_BUCKET'
