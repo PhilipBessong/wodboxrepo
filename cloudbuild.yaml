@@ -4,11 +4,11 @@ steps:
 
   - name: 'gcr.io/cloud-builders/npm'
     args: ['install']
-    dir: 'app'
+    dir: 'app'  # Set the working directory to 'app'
 
-- name: 'gcr.io/cloud-builders/npm'
+  - name: 'gcr.io/cloud-builders/npm'
     args: ['run', 'build:ionic']
-    dir: 'app'
+    dir: 'app'  # Set the working directory to 'app'
 
   - name: 'gcr.io/cloud-builders/gcloud'
     args:
@@ -16,8 +16,9 @@ steps:
       - 'deploy'
       - '--quiet'
       - '--project=wodbox-407204'
-      - '--version=v1' # Replace with your app version
+      - '--version=v1'
       - 'app.yaml'
+    dir: 'app'  # Set the working directory to 'app'
 
 options:
   default_logs_bucket_behavior: 'REGIONAL_USER_OWNED_BUCKET'
