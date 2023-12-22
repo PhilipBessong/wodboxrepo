@@ -7,10 +7,6 @@ steps:
     dir: 'app'  # Set the working directory to 'app'
 
   - name: 'gcr.io/cloud-builders/npm'
-    args: ['install', '-g', '@ionic/cli']
-    dir: 'app'  # Set the working directory to 'app'
-
-  - name: 'gcr.io/cloud-builders/npm'
     args: ['run', 'build:ionic']
     dir: 'app'  # Set the working directory to 'app'
 
